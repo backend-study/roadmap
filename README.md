@@ -1,6 +1,6 @@
 # Spring Armor
 
-<img src="https://vignette.wikia.nocookie.net/p__/images/9/94/Shining_armor_by_sakatagintoki117-d5m9yay.png/revision/latest?cb=20140219180938&amp;path-prefix=protagonist" alt="Shining Armor | Heroes Wiki | Fandom" style="zoom: 33%;" />
+![Dear Shining Armor - FiMFetch.net](https://fimfetch.net/story/90961/images/i5qb-1432475509-90961-medium.png)
 
 * 우아한테크캠프 자바 백엔드 로드맵을 하나의 키워드로 삼아 코드스쿼드 마스터즈코스 학습 내용을 정리하는 프로젝트이다.
   * https://github.com/woowacourse/roadmap

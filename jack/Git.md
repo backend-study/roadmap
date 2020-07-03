@@ -35,6 +35,7 @@ git stash
 ![git stash](/jack/assets/git%20stash.png)
 
 ![git stash 후 스택에 저장된 commit](/jack/assets/git%20stash%20후%20스택에%20저장된%20커밋.png)
+
 [ git stash 후 스택에 저장된 commit 객체 ]
 
 ### git stash pop
@@ -44,6 +45,7 @@ git stash pop
 - stash 스택에 쌓인 마지막 stash commit 객체를 꺼내오는 명령어. 꺼내면서 지워집니다.
 
 ![git stash pop이후 결과](/jack/assets/git%20stash%20pop이후%20결과.png)
+
 [ git stash pop 사라진 stash commit 객체 ]
 
 ### git stash clear
@@ -53,6 +55,7 @@ git stash clear
 - stash 스택을 비우는 명령어.
 
 ![git stash pop이후 결과2](/jack/assets/git%20stash%20pop이후%20결과2.png)
+
 [ git stash clear 후 사라진 stash commit 객체 ]
 
 ## 결론
